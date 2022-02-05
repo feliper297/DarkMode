@@ -14,10 +14,4 @@ Ao clicar sobre o botão "Light Mode" o tema da página é alterado para claro e
 
 - JavaScript
 
-- HTML 
-
-  
-
-   
-
-  
+- HTML
