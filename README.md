@@ -2,13 +2,13 @@
 
 ---
 
-##### Atividade: Light Mode/Dark Mode
+##### :pen:Atividade: Light Mode/Dark Mode
 
 Ao clicar sobre o botão "Light Mode" o tema da página é alterado para claro e se for clicado em "Dark Mode" o tema da página é alterado para escuro
 
 ----
 
-##### Tecnologias Utilizadas:
+##### :pen:Tecnologias Utilizadas:
 
 - CSS
 
